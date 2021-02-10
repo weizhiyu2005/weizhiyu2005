@@ -1,16 +1,15 @@
-### Hi there 👋
+<h3 align="center">👋 Hello! I'm weizhiyu2005！</h3>
 
-<!--
-**weizhiyu2005/weizhiyu2005** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+<a href="https://www.piaoruoxue.cn">Blog</a>&nbsp;•&nbsp;
+<a href="https://github.com/weizhiyu2005">GitHub</a>&nbsp;
+</p>
 
-Here are some ideas to get you started:
+<p align="center">
+  <a href="https://github.com/weizhiyu2005">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=weizhiyu2005&show_icons=true&layout=compact&count_private=true&hide_title=true&theme=default">
+    <br><br>
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=weizhiyu2005&layout=compact&count_private=true&theme=default">
+  </a>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
